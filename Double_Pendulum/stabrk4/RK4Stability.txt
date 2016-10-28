@@ -1,0 +1,8 @@
+RK4 Critical Step Alogrithm 
+ 
+ 
+ The optimal step size is 2.95058
+Tolerence:1.1	
+Initial_Energy:0.02
+imax =338916
+Time=999997

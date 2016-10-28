@@ -1,0 +1,8 @@
+LF Critical Step Alogrithm 
+ 
+ 
+ The optimal step size is 0.983192
+Tolerence:30	
+Initial_Energy:0.02
+imax =1017095
+Time=1e+06
